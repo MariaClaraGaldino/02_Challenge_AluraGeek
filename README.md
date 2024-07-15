@@ -26,4 +26,4 @@ No meu projeto fiz com que a usuário possa enviar sua avaliação do drama assi
 
 ## Link de Deploy
 
-Acesse o projeto em: [ AluraGeek - Desafio ONE Front-end](https://challenge-one-front-end-portfolio2.vercel.app/) 
+Acesse o projeto em: [ AluraGeek - Desafio ONE Front-end](https://mariaclaragaldino-challenge-alura-geek.vercel.app/) 
